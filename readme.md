@@ -23,4 +23,4 @@
 #### Метрика:
 В качестве метрики выступает Recall
 
-## [Решение тут]()
+## [Решение тут](https://github.com/chusovalex/Hakaton_Saratovskaya_oblast/blob/main/saratov_rosstat_2022_09_18_github.ipynb)
